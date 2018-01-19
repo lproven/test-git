@@ -1,4 +1,5 @@
 #!/bin/bash
+# Adding a remark to the file
 echo This does not do anything useful.
 
 
